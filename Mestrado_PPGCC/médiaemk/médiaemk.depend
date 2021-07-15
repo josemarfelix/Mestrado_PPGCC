@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626295070 source:j:\códigos_c++\lista2_06_04\médiaemk\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

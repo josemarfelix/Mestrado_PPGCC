@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625530026 source:j:\códigos_c++\lista2_06_04\coiincollectingproblempd\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
